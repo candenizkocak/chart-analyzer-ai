@@ -1,13 +1,4 @@
----
-title: Chart Analyzer
-emoji: 📈
-colorFrom: purple
-colorTo: gray
-sdk: gradio
-sdk_version: 4.44.0
-app_file: app.py
-pinned: false
-license: mit
----
+# Chart Analyzer AI
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+Analyzes matplotlib plots both by vision and code.
+Live demo: https://huggingface.co/spaces/candenizkocak/chart-analyzer
